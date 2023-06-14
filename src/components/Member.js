@@ -14,7 +14,13 @@ import IMG11 from "../assets/Img11.jpg"
 import IMG12 from "../assets/Img12.jpg"
 import IMG13 from "../assets/Img13.jpg"
 import IMG14 from "../assets/Img14.jpg"
-
+import IMG15 from "../assets/Img15.jpg"
+import IMG16 from "../assets/Img16.jpg"
+import IMG17 from "../assets/Img17.jpg"
+import IMG18 from "../assets/Img18.jpg"
+import IMG19 from "../assets/Img19.jpg"
+import IMG20 from "../assets/Img20.jpg"
+import IMG21 from "../assets/Img21.jpg"
 
 import React from 'react'
 
@@ -184,6 +190,90 @@ const Member = () => {
             </div>
             <div className="cdetail">
                 <h2>Sumon Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG15} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Rina Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG16} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Milon Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG17} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Bethe Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG18} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Kobita Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG19} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Rithu Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG20} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Subrata Dev Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG21} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Taposh Mohanta.</h2>
                 <br/>
                 <br/>
                 <Link to="" className="btn">WebSite</Link>
