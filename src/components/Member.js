@@ -21,6 +21,11 @@ import IMG18 from "../assets/Img18.jpg"
 import IMG19 from "../assets/Img19.jpg"
 import IMG20 from "../assets/Img20.jpg"
 import IMG21 from "../assets/Img21.jpg"
+import IMG22 from "../assets/Img22.jpg"
+import IMG23 from "../assets/Img23.jpg"
+import IMG24 from "../assets/Img24.jpg"
+import IMG25 from "../assets/Img25.jpg"
+import IMG26 from "../assets/Img26.jpg"
 
 import React from 'react'
 
@@ -274,6 +279,66 @@ const Member = () => {
             </div>
             <div className="cdetail">
                 <h2>Taposh Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG22} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Susmita Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG23} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Udvash Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG24} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Sreeja Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG25} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Aaradhya Mohanta.</h2>
+                <br/>
+                <br/>
+                <Link to="" className="btn">WebSite</Link>
+                <Link to="" className="btn btn-light">FaceBook</Link>
+            </div>
+        </div>
+        <div className="mycard">
+            <div className="cimg">
+                <img src={IMG26} alt="IMG6"/>
+            </div>
+            <div className="cdetail">
+                <h2>Sarollo Mohanta.</h2>
                 <br/>
                 <br/>
                 <Link to="" className="btn">WebSite</Link>
